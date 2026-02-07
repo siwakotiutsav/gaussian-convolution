@@ -1,10 +1,3 @@
-Here’s a clean, professional **README.md** written specifically for your GitHub repo.  
-It avoids emojis, avoids notebook‑style fluff, and is formatted exactly the way GitHub expects.
-
-You can paste this directly into your `README.md` file.
-
----
-
 # **README.md**
 
 ## **Gaussian Smoothing and Regridding Pipeline for JWST/MIRI–MRS Line Cubes**
