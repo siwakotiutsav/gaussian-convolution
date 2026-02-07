@@ -1,5 +1,3 @@
-# **README.md**
-
 ## **Gaussian Smoothing and Regridding Pipeline for JWST/MIRI–MRS Line Cubes**
 
 This repository contains a Python workflow for smoothing JWST/MIRI–MRS line cubes using a wavelength‑dependent **Gaussian kernel**. The method follows the approach used in early JWST/MIRI studies, where each spectral slice is convolved to match the spatial resolution at the longest wavelength in the dataset.
